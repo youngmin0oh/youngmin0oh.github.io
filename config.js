@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":2,"title":"","author":"","subject":"","keywords":"","creator":"LaTeX with hyperref","producer":"pdfTeX-1.40.21","creationdate":"D:20240714033210Z","moddate":"D:20240714033210Z","trapped":"False","fileName":"Resume (1).pdf","bounds":[[935,1210],[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
